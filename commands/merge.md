@@ -1,2 +1,2 @@
 // git merge <branch-name>
-git merge release
+git merge feature1

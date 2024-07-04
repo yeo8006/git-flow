@@ -1,6 +1,6 @@
 ```bash
 // git tag <tag-name>
-git tag 0.1
+git tag 1.0
 git tag
 ```
 
@@ -10,5 +10,5 @@ git remote -v
 
 ```bash
 // git push <remote-name> <tag-name>  
-git push origin 0.1
+git push origin 1.0
 ```

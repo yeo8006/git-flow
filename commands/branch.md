@@ -4,18 +4,18 @@ git branch -a
 
 ```bash
 // git branch <branch-name>
-git branch hotfix
+git branch release
 git branch -a
 ```
 
 ```bash
 // git checkout <branch-name>
-git checkout hotfix
+git checkout release
 ```
 
 ```bash
 git add .
-git commit -m "add to hotfix branch"
+git commit -m "add to new branch"
 ```
 
 ```bash
@@ -24,7 +24,7 @@ git remote -v
 
 ```bash
 // git push -u <remote-name> <branch-name>
-git push -u origin hotfix
+git push -u origin release
 ```
 
 ```bash

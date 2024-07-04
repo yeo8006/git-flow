@@ -1,2 +1,2 @@
 // git merge <branch-name>
-git merge hotfix
+git merge feature1

@@ -4,13 +4,13 @@ git branch -a
 
 ```bash
 // git branch <branch-name>
-git branch develop
+git branch release
 git branch -a
 ```
 
 ```bash
 // git checkout <branch-name>
-git checkout develop
+git checkout release
 ```
 
 ```bash
@@ -24,7 +24,7 @@ git remote -v
 
 ```bash
 // git push -u <remote-name> <branch-name>
-git push -u origin develop
+git push -u origin release
 ```
 
 ```bash
